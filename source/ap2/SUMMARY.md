@@ -1,6 +1,6 @@
 # Summary
 
-* [Objektorientierte Programmierung](chapter/einfuehrung_oop.md)
+* [Objektorientierung](chapter/einfuehrung_oop.md)
 * [Typparameter](chapter/typparameter.md)
 * [Interfaces](chapter/interfaces.md)
 * [Vererbung](chapter/vererbung.md)
