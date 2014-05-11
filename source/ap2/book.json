@@ -1,0 +1,22 @@
+{
+    "output": "../../ap2",
+    "generator": "site",
+
+    "title": null,
+    "description": null,
+
+    "github": "aptutorium",
+    "githubHost": "https://github.com/",
+
+    "links": {
+        "home": null,
+        "about": false,
+        "issues": false,
+        "contribute": false,
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false
+        }
+    }
+}
